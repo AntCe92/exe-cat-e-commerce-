@@ -1,0 +1,39 @@
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+#prima.posizione-sconto{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    display: inline-block;
+}
+
+.posizione-sconto{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    display: inline-block;
+}
+
+
+
+
+.sconto{
+    width: 40px;
+    background-color: green;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.scontopoco{
+    width: 40px;
+    background: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+ }
+
+
